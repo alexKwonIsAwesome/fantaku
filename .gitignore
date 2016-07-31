@@ -91,3 +91,7 @@ ENV/
 # Temporary files
 *.swp
 *.swo
+
+# database
+
+db.sqlite3
