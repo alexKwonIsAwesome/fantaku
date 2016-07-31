@@ -1,0 +1,2 @@
+# fantaku
+webtoon/manga community
